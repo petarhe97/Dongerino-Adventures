@@ -1,0 +1,47 @@
+/*
+  Name: Knight.java
+  Author: Alexander Lu, Bob Du, Ian Hu, Peter He
+  Date: Jan 9, 2015
+  School: A. Y. Jackson S.S.
+  Purpose: The Knight class is a subclass of hero which defines a class of hero
+            and has methods implemented differently than the other subclasses of hero
+ */
+
+public class Knight extends Hero{
+
+	//Constants
+	private static final String LOWER_RANK_NAME = "Knight";
+	private static final String HIGHER_RANK_NAME = "Paladin";
+	
+	//Constructor
+	public Knight(String name, int health, int attack, int defense, int range, int movement, int level, int exp, boolean rankUp, Equipment loadOut){
+		super(name, health, attack, defense, range, movement, level, exp, rankUp, loadOut);
+		unitID = 4;
+		terrainPassing = false;
+	}
+	
+	//This method checks if the implicit object has ranked up, and returns the appropriate designation
+	public String checkRank(){
+		if (rankUp){
+			return HIGHER_RANK_NAME;
+		}else{
+			return LOWER_RANK_NAME;
+		}
+	}
+
+	//This method calculates the damage that the implicit object will deal to the explicit object
+	public int calculateDamage(Unit unit){
+		
+		int totalAttack = attack + loadout.getMainHand().use();
+		
+		double armorEnemy = unit.getDefense();
+		
+		int damage = (int)((totalAttack*1.1*(1+defense/100))*(1-armorEnemy/(double)100));
+		
+		return damage;
+	}
+	
+	public String toString(){
+		return ("Knight"+ "\r\n" +super.toString());
+	}
+}
