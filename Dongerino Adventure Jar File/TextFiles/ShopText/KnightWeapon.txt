@@ -1,0 +1,12 @@
+11
+Sword
+Katana
+Matchete
+Gladius
+Iron Sword
+Bronze Sword
+Rapier
+Jian
+Longsword
+Scimitar
+Saber

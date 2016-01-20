@@ -1,0 +1,26 @@
+6
+8
+0
+0
+Dongerino: This is taking forever... Where is that messenger?
+0 2
+2
+Villager: Sir, thank you for defending our village. If you would like, I can lead you to the nearby villages. I go hunting and know the area quite well.
+0 2
+0
+Dongerino: Ah excellent. You use a bow I assume? Then you could even fight with us if you're feeling adventurous, kid.
+0 2
+2
+Villager: I'll try my best sir...?
+0 2
+0
+Dongerino: Dongerino. What's your name, kid?
+0 2
+2
+Nob: It's Nob sir.
+0 2
+0
+Dongerino: Alright then, Nob, come along and lead us to the closest village. One of you people in this place tell that messenger where we went when he gets back.
+0
+-1
+With the newly acquired Nob, Dongerino and his men continue towards the next town of Black Mesa.

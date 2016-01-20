@@ -1,0 +1,32 @@
+8
+10
+0
+0
+Dongerino: These monsters are getting more numerous and tougher. We're definitely closing in on a source.
+0
+0
+Dongerino: Hey, do you guys see something running around in that village? Come we must investigate.
+0 3
+0
+Dongerino: Stop right there! Who in Gaben's name are you?
+0 3
+3
+Theif: I uhh...
+0 3
+0
+Dongerino: A theif aren't you? Stealing stuff after this place is destroyed… We really should arrest you.
+0 3
+3
+Snake: Plis, I wouldn't stoop down to that kind of level. I'm Snake, an assassin for hire. Was just passing through the area and came to see what happened here. I assume the monsters attacked.
+0 3
+0
+Dongerino: Yeah we've been trying to track down the source. Say, if we paid you, will you join us?
+0 3
+3
+Hmm, that's fine, you look like you have money. Plus if these monsters keep attack, I lose clients and targets. Alright, I'll come along.
+0 3
+0
+Dongerino: Very well, come along then, we're moving on next morning.
+0
+-1
+With a new assassin in their party, the group decide to rest for a bit in a relatively unharmed inn. The next morning, they head out to the town of Diretide.

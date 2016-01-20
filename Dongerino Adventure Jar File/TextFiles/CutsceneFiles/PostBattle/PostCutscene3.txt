@@ -1,0 +1,23 @@
+6
+7
+0 4
+0
+Dongerino: Well fought mage and knight. What are your names?
+0 4
+4
+Greyface: I'm Greyface.
+0 1
+1
+Cancer: I'm Cancer.
+0 1
+0
+Dongerino: Well it's good to have you two on board. I'm Sir Dongerino, that's Kappa, Scrub and Nob. But enough with the introductions, we need to keep moving. Nob, is there another village in the same direction?
+0 2
+2
+Nob: Yes sir, quite a bit away from here.
+0 2
+0
+Dongerino: Good, then lead on. Hopefully we're on the right direction to figuring out the source.
+0
+-1
+Dongerino and his men hastily pack their gear and head straight towards the next town of Envy.

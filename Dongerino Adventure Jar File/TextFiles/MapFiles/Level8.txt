@@ -1,0 +1,160 @@
+15
+15
+mmmmmmmmfffffmm
+mmmmmfffffffffm
+mmmffffffffffmm
+mffffggffwwfmmm
+mmfggggfwwwffmm
+mffggggffwwwfmm
+mmffgggfffffffm
+mmffffffffffffm
+mffffffwwwfffmm
+mmffffffwwffmmm
+mmffffffwwfffmm
+mffgggfffwwwffm
+mffgggfffffffmm
+mmfgggggffffmmm
+mmffffffffffmmm
+8
+5 2
+6 2
+7 2
+8 2
+4 3
+5 3
+6 3
+7 3
+4
+12
+6 12
+58
+16
+7
+1
+8
+Demon
+4
+9
+30
+40
+7 12
+57
+13
+11
+1
+6
+Black Knight
+3
+7
+27
+30
+8 12
+58
+16
+7
+1
+8
+Demon
+4
+9
+30
+40
+9 12
+58
+16
+7
+1
+8
+Demon
+4
+9
+30
+40
+10 12
+57
+13
+11
+1
+6
+Black Knight
+3
+7
+27
+30
+11 12
+58
+16
+7
+1
+8
+Demon
+4
+9
+30
+40
+8 13
+58
+16
+7
+1
+8
+Demon
+4
+9
+30
+40
+9 13
+58
+16
+7
+1
+8
+Demon
+4
+9
+30
+40
+10 13
+58
+16
+7
+1
+8
+Demon
+4
+9
+30
+40
+11 13
+58
+16
+7
+1
+8
+Demon
+4
+9
+30
+40
+9 14
+64
+19
+12
+1
+4
+Dark Commander
+5
+5
+35
+60
+10 14
+64
+19
+12
+1
+4
+Dark Commander
+5
+5
+35
+60

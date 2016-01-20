@@ -1,0 +1,101 @@
+15
+15
+mmmmmmmmffffffgg
+fffffffffffggggg
+fffffgggggggwwww
+ffgggggggggggwww
+gggggggggggggggw
+gggggggfgvvvgggg
+ggggggvvvvvvgggg
+ggggvvvvvvvggsss
+gggggggvvvgggsss
+ffffggggvvgsssss
+fffgggggggggggss
+ffffggfffwwwbwww
+ffgwwwbwwwgggggg
+ffgbgggggwbwwwwg
+ffgwggggggggggwg
+4
+6 0
+5 0
+4 0
+7 0
+4
+7
+11 14
+20
+4
+3
+1
+8
+Slime
+1
+9
+7
+12
+12 14
+20
+4
+3
+1
+8
+Slime
+1
+9
+7
+12
+13 14
+20
+4
+3
+1
+8
+Slime
+1
+9
+7
+12
+11 13
+20
+4
+3
+1
+8
+Slime
+1
+9
+7
+12
+12 13
+30
+5
+5
+1
+5
+Water Elemental
+2
+6
+10
+20
+13 13
+30
+5
+5
+1
+5
+Water Elemental
+2
+6
+10
+20
+14 13
+30
+5
+5
+1
+5
+Water Elemental
+2
+6
+10
+20

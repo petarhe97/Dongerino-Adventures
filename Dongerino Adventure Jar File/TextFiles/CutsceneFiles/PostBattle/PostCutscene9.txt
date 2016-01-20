@@ -1,0 +1,20 @@
+4
+6
+0
+0
+Dongerino: Quickly, destroy that portal!
+0 -5
+-5
+Lazy: Not so fast. You don't think it'll be that easy do you?
+0 -5
+0
+Dongerino: So you're the summoner eh? Well if it's just you and a few more of those in the way, then yeah, it will be pretty easy.
+0 -5
+-5
+Lazy: Alright, try me then.
+0 -5
+0
+Dongerino: Tell me though, what's your reason?
+0 -5
+-5
+Lazy: Very well I shall tell you then since you've made it this far.

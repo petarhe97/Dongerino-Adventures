@@ -1,0 +1,127 @@
+15
+15
+mmmmmmmmmmmmmmm
+mmmmmfffffmmmmm
+mmmffffffffmmmm
+mmfffggggggfmmm
+mfggggggggfffmm
+mfgggggggggffmm
+mfgggggggggggfm
+mfggggggggggfmm
+mfffggggggfffmm
+mffggggggggffmm
+mffgggggggffmmm
+mmfgggggggffmmm
+mmmfgggggffmmmm
+mmmmfgggfmmmmmm
+mmmmmggmmmmmmmm
+8
+5 0
+6 0
+5 1
+6 1
+7 1
+6 2
+7 2
+8 2
+6
+9
+4 10
+70
+23
+15
+1
+4
+Dark Commander
+5
+5
+42
+60
+5 10
+70
+23
+15
+1
+4
+Dark Commander
+5
+5
+42
+60
+6 10
+70
+23
+15
+1
+4
+Dark Commander
+5
+5
+42
+60
+7 10
+70
+23
+15
+1
+4
+Dark Commander
+5
+5
+42
+60
+8 10
+70
+23
+15
+1
+4
+Dark Commander
+5
+5
+42
+60
+9 10
+70
+23
+15
+1
+4
+Dark Commander
+5
+5
+42
+60
+5 11
+70
+23
+15
+1
+4
+Dark Commander
+5
+5
+42
+60
+6 11
+70
+23
+15
+1
+4
+Dark Commander
+5
+5
+42
+60
+6 12
+150
+35
+30
+2
+0
+Lazy
+3
+2
+50
+999999999

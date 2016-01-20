@@ -1,0 +1,159 @@
+15
+15
+mmffffffggfffmm
+mmmffffgggffmmm
+mmmfffggggfffmm
+mfffffffffffmmm
+mmfffffffffffmm
+mffffffwwbwwwmm
+mmwwwbwwffffffm
+mmffffffffffffm
+mffffffffffffmm
+mmffffffffffmmm
+mmfffffffffffmm
+mffgggffffffffm
+mffgggfffffffmm
+mmfggfffffffmmm
+mmffffffffffmmm
+7
+5 7
+6 7
+7 7
+8 7
+4 6
+5 6
+6 6
+8
+12
+4 1
+45
+9
+9
+1
+5
+Water Elemental
+2
+6
+22
+20
+5 1
+45
+9
+9
+1
+5
+Water Elemental
+2
+6
+22
+20
+6 1
+55
+12
+10
+1
+6
+Black Knight
+3
+7
+24
+30
+4 2
+55
+12
+10
+1
+6
+Black Knight
+3
+7
+24
+30
+5 2
+57
+16
+6
+1
+8
+Demon
+4
+9
+28
+40
+6 2
+57
+16
+6
+1
+8
+Demon
+4
+9
+28
+40
+7 13
+45
+9
+9
+1
+5
+Water Elemental
+2
+6
+22
+20
+8 13
+55
+12
+10
+1
+6
+Black Knight
+3
+7
+24
+30
+9 13
+57
+16
+6
+1
+8
+Demon
+4
+9
+28
+40
+7 14
+57
+16
+6
+1
+8
+Demon
+4
+9
+28
+40
+8 14
+57
+16
+6
+1
+8
+Demon
+4
+9
+28
+40
+9 14
+60
+18
+11
+1
+4
+Dark Commander
+5
+5
+32
+60

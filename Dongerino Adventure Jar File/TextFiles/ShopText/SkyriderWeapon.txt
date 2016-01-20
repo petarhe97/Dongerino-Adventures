@@ -1,0 +1,7 @@
+6
+Spear
+Polearm
+Yari
+Halberd
+Trident
+Pitchfork
