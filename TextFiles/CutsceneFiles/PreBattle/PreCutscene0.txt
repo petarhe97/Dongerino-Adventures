@@ -1,0 +1,29 @@
+0
+9
+4 1
+1
+Advisor: King Gaben, there have been recent reports of monsters from the villages near the mountains.
+4 1
+4
+King Gaben: This could prove to be a serious issue indeed… At this rate I won't be able to collect their tax money! Send Sir Dongerino at once to the area to report on the situation. Tell him he can take 2 other people.
+4 1
+1
+Advisor: At once, lord Gaben!
+0 3
+3
+Messenger: Sir Dongerino, the King has given an order to investigate recent monster appearances near the outer villages. You are allowed to take two with you Dongerino.
+0 3
+0
+Dongerino: Alright, I shall head out with Kappa and Scrub as soon as we're ready. Hopefully this doesn't take too long. I must get back to increasing my MMR.
+0
+-1
+Dongerino assembled his men and headed out. They reached the town of CS:GO Case shortly after...
+0 1
+0
+Dongerino: Don't see any monsters yet. Maybe Gaben is finally getting paranoid and is sending me to do pointless crap.
+0 1
+1
+Kappa: Look ahead Donger, there's a bunch of villagers running this way.
+0 1
+0
+Dongerino: Those are monsters chasing them! Well seems like we've got work to do after all. Up and at ‘em boys!

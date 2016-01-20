@@ -1,0 +1,5 @@
+4
+Nodachi
+Greatsword
+Broadsword
+Claymore

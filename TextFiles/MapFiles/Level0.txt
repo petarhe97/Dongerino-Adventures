@@ -1,0 +1,78 @@
+15
+15
+vggggggffffwwfff
+vvgggggffffwwfff
+vvggggfffffbbfff
+vvgggffffffbbfff
+vvggggfffffwwfff
+vvggggggfwwwwfff
+gggggggffwwwwfff
+gggggffffwwfffff
+ggggfffffwwwwfff
+ggggggfffwwwwfff
+ggggfffffffwwfff
+ggggggfffwwwwfff
+gggggffffwwwwfff
+ggggggfffwwfffff
+ggggfffffwwfffff
+3
+1 8
+2 9
+2 10
+4
+5
+13 2
+12
+3
+2
+1
+7
+Mutated Frog
+0
+8
+4
+10
+14 5
+12
+3
+2
+1
+7
+Mutated Frog
+0
+8
+4
+10
+13 6
+15
+3
+2
+1
+8
+Slime
+1
+9
+5
+12
+14 9
+12
+3
+2
+1
+7
+Mutated Frog
+0
+8
+4
+10
+13 12
+12
+3
+2
+1
+7
+Mutated Frog
+0
+8
+4
+10

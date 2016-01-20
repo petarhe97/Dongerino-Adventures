@@ -1,0 +1,11 @@
+10
+Shabby
+Wooden
+Rusted
+Broken
+Damaged
+Shattered
+Well-Worn
+Destroyed
+Battle-Scarred
+Common

@@ -1,0 +1,82 @@
+1
+3
+Damaged Steel Armor
+5
+5
+4
+Well-Worn Hat
+5
+4
+4
+Shabby Cap
+1
+2
+4
+Rusted Mask
+3
+3
+3
+Shabby Cuirass
+1
+4
+4
+Common Fedora
+3
+1
+4
+Common Cap
+3
+2
+4
+Well-Worn Hat
+8
+5
+4
+Rusted Top Hat
+4
+3
+4
+Shattered Cap
+8
+4
+1
+Rusted Daggers
+1
+4
+3
+2
+Wooden Kite Shield
+5
+5
+4
+Shabby Cap
+7
+3
+0
+Small Potion
+5
+50
+2
+Destroyed Shield
+10
+8
+3
+Broken Shirt
+5
+4
+2
+Destroyed Square Shield
+5
+8
+3
+Well-Worn Shirt
+4
+5
+3
+Shattered Robe
+10
+10
+2
+Common Shield
+8
+6

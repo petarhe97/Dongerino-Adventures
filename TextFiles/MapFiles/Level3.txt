@@ -1,0 +1,136 @@
+15
+15
+mmmmmmmmmmmffgg
+mmmmffffffffggg
+mmmfffgggggggww
+mmgggggggwwwwwg
+ffffgggggwggggg
+ffggwwwwbwgggss
+fffgbggggwgssss
+fffwwggggwbwwss
+wbwwgggggwsswww
+ffffggggsbsssss
+fffggggggwwwbws
+ffffggggggggsws
+ffgggggggggggww
+gggggggvvvggggg
+gvvvvvvvvvvvggg
+6
+6 0
+8 0
+7 0
+9 0
+0 0
+0 1
+4
+10
+5 13
+25
+5
+3
+1
+8
+Slime
+1
+9
+10
+12
+6 13
+35
+6
+6
+1
+5
+Water Elemental
+2
+6
+11
+20
+7 13
+25
+5
+3
+1
+8
+Slime
+1
+9
+10
+12
+8 13
+25
+5
+3
+1
+8
+Slime
+1
+9
+10
+12
+9 13
+35
+6
+6
+1
+5
+Water Elemental
+2
+6
+11
+20
+10 13
+25
+7
+5
+1
+8
+Slime
+1
+9
+4
+12
+14 9
+35
+6
+6
+1
+5
+Water Elemental
+2
+6
+11
+20
+14 10
+35
+6
+6
+1
+5
+Water Elemental
+2
+6
+11
+20
+13 9
+40
+10
+7
+1
+7
+Black Knight
+3
+8
+13
+30
+13 10
+40
+10
+7
+1
+7
+Black Knight
+3
+8
+13
+30

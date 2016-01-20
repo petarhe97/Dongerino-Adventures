@@ -1,0 +1,23 @@
+4
+7
+0 2
+0
+Dongerino: This is getting worse and worse… How far are we from the mountains?
+0 2
+2
+Nob: Pretty close. The terrain was already starting to change.
+0
+0
+Dongerino: Messenger!
+0 3
+3
+Messenger: Sir.
+0 3
+0
+Dongerino: Messenger, send word to the king. We think we've found the source and are investigating. Tell him to send more men to protect the villages and to give us some reinforcements.
+0 3
+3
+Messenger: Yes sir.
+0
+0
+Dongerino: Alright let's keep going boys. We'll probably run into more as we near the base of the mountains.
