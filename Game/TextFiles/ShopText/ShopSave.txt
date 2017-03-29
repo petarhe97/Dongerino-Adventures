@@ -1,0 +1,84 @@
+1
+4
+Wooden Hood
+10
+5
+4
+Destroyed Fedora
+2
+3
+1
+Broken Shortbow
+3
+11
+2
+4
+Battle-Scarred Mask
+4
+3
+0
+Small Potion
+2
+20
+3
+Common Cuirass
+7
+5
+3
+Wooden Robe
+6
+4
+0
+Small Potion
+10
+100
+3
+Common Cuirass
+3
+2
+2
+Rusted Square Shield
+3
+3
+0
+Small Potion
+8
+80
+1
+Destroyed Longbow
+1
+5
+2
+0
+Small Potion
+4
+40
+1
+Wooden Saber
+7
+23
+4
+0
+Small Potion
+3
+30
+4
+Battle-Scarred Fedora
+8
+4
+4
+Well-Worn Fedora
+2
+3
+3
+Shabby Cuirass
+2
+3
+4
+Broken Hood
+6
+3
+3
+Damaged Steel Armor
+8
+5
